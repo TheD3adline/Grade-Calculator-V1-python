@@ -1,5 +1,5 @@
 #   Author:     Michael Fessler
-#   Date:       21.September.2022
+#   Date:       2022/09/21
 #   Version:    0.1
 #               Reads input prompts, checks for correct inputs, and then prints the corresponding grades to console
 
